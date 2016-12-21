@@ -1,0 +1,27 @@
+body {
+  font-family: Helvetica Neue;
+  margin: 0;
+  background-color: #666;
+}
+
+header {
+  padding: 10px;
+  background-color: #4099FF;
+  color: #FFF;
+}
+
+header h1 {
+  margin: 30px 0 0 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 500px;
+  padding: 10px;
+  background-color: #FFF;
+}
+
+.tweet {
+  border-bottom: 1px solid #eee;
+  padding: 10px;
+}
